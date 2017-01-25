@@ -1,6 +1,4 @@
 New New New
-<<<<<<< HEAD
 new new
-=======
 Old Old
->>>>>>> 94f06afe024808c3e51d6427892317e30569bb35
+
